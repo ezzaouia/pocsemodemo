@@ -1,0 +1,133 @@
+[
+    {
+        "sp_session": "575ef103f1a57a61252b4feb",
+        "startAbsolute": "2016-06-27T15:54:44.264Z",
+        "startRelative": 0,
+        "stopAbsolute": "2016-06-27T16:39:45.283Z",
+        "stopRelative": 2701019,
+        "duration": 2701019,
+        "files": [
+            {
+                "streamID": "cee80501-e64a-4b8b-bf84-c472ae4e0522",
+                "archiveFile": "fa487100-43ff-4ca7-aa1a-47773bdcd5f1.zip",
+                "connectionData": "learner-575e88bbf1a57a61252b4a33-Shirley Beleno",
+                "filename": "cee80501-e64a-4b8b-bf84-c472ae4e0522.webm",
+                "seek": 200,
+                "duration": 2701019
+            },
+            {
+                "streamID": "6c5e787e-a62d-4fdb-b0b6-e3ffd938de35",
+                "archiveFile": "fa487100-43ff-4ca7-aa1a-47773bdcd5f1.zip",
+                "connectionData": "coach-560844b067b8fad40981e1a4-FrÃ©dÃ©ric Charrier",
+                "filename": "6c5e787e-a62d-4fdb-b0b6-e3ffd938de35.webm",
+                "seek": 0,
+                "duration": 2701019
+            }
+        ]
+    },
+    {
+        "sp_session": "575ef103f1a57a61252b4fe6",
+        "startAbsolute": "2016-06-17T16:02:03.006Z",
+        "startRelative": 0,
+        "stopAbsolute": "2016-06-17T16:47:04.368Z",
+        "stopRelative": 2701362,
+        "duration": 2701362,
+        "files": [
+            {
+                "streamID": "53aad974-4e23-4b31-91f5-75bc9df680cf",
+                "archiveFile": "6fd10841-3484-4626-9840-85b2e789cf2c.zip",
+                "connectionData": "coach-560844b067b8fad40981e1a4-FrÃ©dÃ©ric Charrier",
+                "filename": "53aad974-4e23-4b31-91f5-75bc9df680cf.webm",
+                "seek": 61,
+                "duration": 2701362
+            },
+            {
+                "streamID": "9eff8aaa-b3ea-4ef4-b8dc-0caace400aec",
+                "archiveFile": "6fd10841-3484-4626-9840-85b2e789cf2c.zip",
+                "connectionData": "learner-575e88bbf1a57a61252b4a33-Shirley Beleno",
+                "filename": "9eff8aaa-b3ea-4ef4-b8dc-0caace400aec.webm",
+                "seek": 0,
+                "duration": 2701362
+            }
+        ]
+    },
+    {
+        "sp_session": "575ef103f1a57a61252b4fe8",
+        "startAbsolute": "2016-06-22T15:54:49.278Z",
+        "startRelative": 0,
+        "stopAbsolute": "2016-06-22T16:39:50.661Z",
+        "stopRelative": 2701383,
+        "duration": 2701383,
+        "files": [
+            {
+                "streamID": "c5339849-5724-480b-8ec1-ca199056171f",
+                "archiveFile": "7566569e-4914-4497-8b9a-559c067d5a45.zip",
+                "connectionData": "learner-575e88bbf1a57a61252b4a33-Shirley Beleno",
+                "filename": "c5339849-5724-480b-8ec1-ca199056171f.webm",
+                "seek": 80,
+                "duration": 2701383
+            },
+            {
+                "streamID": "008c8db7-540d-4142-a234-b757f6fb0607",
+                "archiveFile": "7566569e-4914-4497-8b9a-559c067d5a45.zip",
+                "connectionData": "coach-560844b067b8fad40981e1a4-FrÃ©dÃ©ric Charrier",
+                "filename": "008c8db7-540d-4142-a234-b757f6fb0607.webm",
+                "seek": 0,
+                "duration": 2701383
+            }
+        ]
+    },
+    {
+        "sp_session": "575ef103f1a57a61252b4fe9",
+        "startAbsolute": "2016-06-24T15:56:33.563Z",
+        "startRelative": 0,
+        "stopAbsolute": "2016-06-24T16:41:34.965Z",
+        "stopRelative": 2701402,
+        "duration": 2701402,
+        "files": [
+            {
+                "streamID": "9fce84ba-5127-47be-a519-42fa5268a608",
+                "archiveFile": "f31f19d6-d739-4467-9914-91b973b7a71d.zip",
+                "connectionData": "coach-560844b067b8fad40981e1a4-FrÃ©dÃ©ric Charrier",
+                "filename": "9fce84ba-5127-47be-a519-42fa5268a608.webm",
+                "seek": 1,
+                "duration": 2701402
+            },
+            {
+                "streamID": "f4aafc05-c6fd-46b6-bccd-3372162487f4",
+                "archiveFile": "f31f19d6-d739-4467-9914-91b973b7a71d.zip",
+                "connectionData": "learner-575e88bbf1a57a61252b4a33-Shirley Beleno",
+                "filename": "f4aafc05-c6fd-46b6-bccd-3372162487f4.webm",
+                "seek": 0,
+                "duration": 2701402
+            }
+        ]
+    },
+    {   
+        "sp_session": "575ef103f1a57a61252b4fea",
+        "startAbsolute": "2016-06-26T17:58:13.802Z",
+        "startRelative": 0,
+        "stopAbsolute": "2016-06-26T18:43:15.085Z",
+        "stopRelative": 2701283,
+        "duration": 2701283,
+        "files": [
+            {
+                "streamID": "c01a6ce7-969a-4342-8517-8dc61c079767",
+                "archiveFile": "1a78bb6f-ffbb-4e13-a642-269af231661d.zip",
+                "connectionData": "coach-560844b067b8fad40981e1a4-FrÃ©dÃ©ric Charrier",
+                "filename": "c01a6ce7-969a-4342-8517-8dc61c079767.webm",
+                "seek": 279,
+                "duration": 2701283
+            },
+            {
+                "streamID": "95f9395b-258e-4137-be3d-e838b8c4d837",
+                "archiveFile": "1a78bb6f-ffbb-4e13-a642-269af231661d.zip",
+                "connectionData": "learner-575e88bbf1a57a61252b4a33-Shirley Beleno",
+                "filename": "95f9395b-258e-4137-be3d-e838b8c4d837.webm",
+                "seek": 0,
+                "duration": 2701283
+            }
+        ]
+    }
+
+]
